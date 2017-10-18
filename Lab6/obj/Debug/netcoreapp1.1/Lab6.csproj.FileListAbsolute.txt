@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.deps.json
+C:\Users\User\Desktop\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.runtimeconfig.json
+C:\Users\User\Desktop\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.dll
+C:\Users\User\Desktop\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.pdb
+C:\Users\User\Desktop\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.dll
+C:\Users\User\Desktop\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.pdb
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.deps.json
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.runtimeconfig.json
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.dll
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\bin\Debug\netcoreapp1.1\Lab6.pdb
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.dll
+C:\Users\User\Desktop\Lab OOP\Lab6\Lab6\obj\Debug\netcoreapp1.1\Lab6.pdb
